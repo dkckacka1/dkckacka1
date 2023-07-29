@@ -24,4 +24,3 @@
 ---
 ### 🖋Educate
 * [개인 R&D](https://github.com/dkckacka1/RNDProject)
-* SBS게임 아카데미 신촌점 수료
