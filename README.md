@@ -27,6 +27,3 @@
 ### ✨Portfolio
 * [2D 턴제 RPG(2023/07/23)](https://github.com/dkckacka1/DotHeros-2DPortfolio-)
 * [3D 탑등반 자동전투 RPG(2023/05/15)](https://github.com/dkckacka1/RiseTheTower-3DPortfolio-)
----
-### 🖋Educate
-* [개인 R&D](https://github.com/dkckacka1/RNDProject)
